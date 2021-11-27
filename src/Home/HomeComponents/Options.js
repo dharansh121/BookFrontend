@@ -19,7 +19,6 @@ const Options = () => {
                   optionDescription="Have a question, have an idea, wants to get updated with ongoing events in the university, or want to interact with peers and grow a network within a university, StudentHelper network is the answer to these questions. Explore now and enhance your college journey."
                   buttonText="Discover Now"
                   photo="./images/network.jpg"
-                  path="/collection"
                 />
               </center>
             </Grid>
